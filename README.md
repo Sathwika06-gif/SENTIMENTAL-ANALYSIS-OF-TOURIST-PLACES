@@ -54,7 +54,7 @@ We used the Hugging Face bert-base-uncased model and fine-tuned it for 3-class c
 
 ### Step 1: Clone the repository
 
-git clone https://github.com/yourusername/tourist-sentiment-analysis.git
+git clone https://github.com/Sathwika06-gif/SENTIMENTAL-ANALYSIS-OF-TOURIST-PLACES.git
 cd tourist-sentiment-analysis
 
 ### Step 2: Install dependencies
